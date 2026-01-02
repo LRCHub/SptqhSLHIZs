@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Over My Head",
+  "base_artist": "Brian Littrell",
+  "createdAt": "2026-01-02T06:14:54.046296Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/01_Over_My_Head_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Toni Basil",
+      "has_synced": true,
+      "path": "select/02_Over_My_Head_Toni_Basil.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Toni Basil",
+      "has_synced": true,
+      "path": "select/03_Over_My_Head_Toni_Basil.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Toni Basil",
+      "has_synced": false,
+      "path": "select/04_Over_My_Head_Toni_Basil.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Over My Head - Remastered Single Version",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/05_Over_My_Head_-_Remastered_Single_Version_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Over My Head (Single Version)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/06_Over_My_Head_(Single_Version)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "A Flock of Seagulls",
+      "has_synced": false,
+      "path": "select/07_Over_My_Head_A_Flock_of_Seagulls.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Moloko",
+      "has_synced": false,
+      "path": "select/08_Over_My_Head_Moloko.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Semisonic",
+      "has_synced": true,
+      "path": "select/09_Over_My_Head_Semisonic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "ICEHOUSE",
+      "has_synced": false,
+      "path": "select/10_Over_My_Head_ICEHOUSE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Furslide",
+      "has_synced": false,
+      "path": "select/11_Over_My_Head_Furslide.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Coal Chamber",
+      "has_synced": true,
+      "path": "select/12_Over_My_Head_Coal_Chamber.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "King's X",
+      "has_synced": true,
+      "path": "select/13_Over_My_Head_King's_X.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Over My Head (Acoustic)",
+      "artist": "King's X",
+      "has_synced": false,
+      "path": "select/14_Over_My_Head_(Acoustic)_King's_X.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Lit",
+      "has_synced": true,
+      "path": "select/15_Over_My_Head_Lit.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Over My Head",
+      "artist": "Red House Painters",
+      "has_synced": true,
+      "path": "select/16_Over_My_Head_Red_House_Painters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Over My Head",
+      "artist": "Brian Littrell",
+      "has_synced": false,
+      "path": "select/pl_01_Over_My_Head_Brian_Littrell.txt"
+    }
+  ]
+}
